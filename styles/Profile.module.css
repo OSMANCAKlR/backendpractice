@@ -1,0 +1,6 @@
+.skeleton__loadingState {
+    background-color: rgb(227, 227, 227) !important;
+    width: 100%;
+    height: 300px;
+    border-radius: 8px; 
+}
